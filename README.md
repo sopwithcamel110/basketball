@@ -7,3 +7,5 @@ uses bs4, time, and selenium modules. prints a name you choose with basketball p
 
 
 You can choose a specific team, and select if you want historical players or not. Edits can be easily made in the same format
+
+all data is scraped from https://www.nba.com/players
